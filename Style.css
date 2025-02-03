@@ -1,0 +1,38 @@
+
+body{
+    background-image: url("https://as1.ftcdn.net/v2/jpg/05/71/06/76/1000_F_571067620_JS5T5TkDtu3gf8Wqm78KoJRF1vobPvo6.jpg");
+}
+.main{
+    color: aliceblue;
+}
+a{
+    color: rgb(13, 108, 191);
+    text-decoration: none;
+}
+h1{
+    background-color: rgb(195, 127, 127);
+    width: auto;
+    height: 52px;
+    text-align: center;
+    padding: 2%;
+}
+nav {
+    display: flex; 
+    list-style-type: none; 
+    padding: 0; 
+}
+
+nav li {
+    margin-right: 40px;
+}
+img{
+   position: absolute;
+    height: 432px;
+    width: 342px;
+    margin-left: 34%;
+    padding-top: 0%;
+    
+}
+.detail{
+    width: 45%;
+}
